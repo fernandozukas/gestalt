@@ -1,0 +1,37 @@
+/* .body{
+    font-family: 'Karla', sans-serif;
+} */
+    
+.h1,h2,h3,h4,h5{
+    font-family: 'Baloo 2', cursive;
+}
+
+.navbar{
+    font-family: 'Baloo 2', cursive;
+    padding: 15px;
+}
+
+#inicio{
+    font-family: 'Baloo 2', cursive;
+}
+
+#pr{
+    font-family: 'Karla', sans-serif;
+}
+
+#rodape{
+     clear: both;
+    text-align: center;
+    padding: 3px;
+}
+
+#leis{
+    font-family: 'Baloo 2', cursive;
+}
+
+#lei{
+    font-family: 'Karla', sans-serif;
+}
+
+
+
